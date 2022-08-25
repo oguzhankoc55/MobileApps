@@ -1,4 +1,4 @@
-package com.example.firstapp;
+package com.oguzhan.firstapp;
 
 import org.junit.Test;
 

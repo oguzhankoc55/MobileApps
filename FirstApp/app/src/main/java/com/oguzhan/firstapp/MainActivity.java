@@ -1,4 +1,4 @@
-package com.example.firstapp;
+package com.oguzhan.firstapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
