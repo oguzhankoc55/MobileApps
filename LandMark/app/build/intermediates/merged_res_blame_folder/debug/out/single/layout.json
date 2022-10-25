@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.oguzhan.landmark.app-mergeDebugResources-30:/layout/recycler_row.xml",
+        "source": "com.oguzhan.landmark.app-main-33:/layout/recycler_row.xml"
+    },
+    {
+        "merged": "com.oguzhan.landmark.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.oguzhan.landmark.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.oguzhan.landmark.app-mergeDebugResources-30:/layout/activity_details.xml",
+        "source": "com.oguzhan.landmark.app-main-33:/layout/activity_details.xml"
+    }
+]
